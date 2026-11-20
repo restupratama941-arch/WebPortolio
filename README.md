@@ -1,2 +1,2 @@
 # WebPortolio
-ini ada website sample portofolio
+ini adalah website sample portofolio
